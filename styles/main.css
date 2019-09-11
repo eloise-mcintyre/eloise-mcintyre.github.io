@@ -23,12 +23,12 @@ h1 {
   .index-headers1 {
     text-align: center;
     margin: 0;
-    padding: 10px;
+    padding: 10px 10px 0px 10px;
   }
   
   .index-headers2 {
     text-align: center;
-    padding: 10px;
+    padding: 0px 10px 10px 10px;
     border-bottom: 2px solid black;
   }
 
@@ -143,12 +143,12 @@ h1 {
 .sprint-2-h2 {
   text-align: center;
   margin: 0;
-  padding: 10px;
+  padding: 10px 10px 0px 10px;
 }
 
 .sprint-2-h3 {
   text-align: center;
-  padding: 10px;
+  padding: 0px 10px 10px 10px;
   border-bottom: 2px solid black;
 }
 
