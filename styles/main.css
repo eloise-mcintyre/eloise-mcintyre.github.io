@@ -86,6 +86,36 @@ h1 {
   margin: 20px 150px 20px 150px;
 }
 
+.pics {
+  text-align: center;
+}
+
+#pic-in-snow {
+  display: inline-block;
+  height: 170px;
+  width: 170px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px 20px 10px 20px;
+}
+
+#profile-pic {
+  display: inline-block;
+  height: 170px;
+  width: 170px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px 20px 10px 20px;
+}
+
+#pic-at-barrier {
+  display: inline-block;
+  height: 150px;
+  width: 230px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px 20px 10px 20px;
+}
 /* BELOW IS TECH BLOG CSS*/
 .top-and-middle {
   text-align: justify;
