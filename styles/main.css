@@ -16,6 +16,38 @@ h1 {
     font-weight: normal;
     border-bottom: 2px solid black;
   }
+  .index-headers {
+    background-color: #dcd0ff;
+  }
+  
+  .index-headers1 {
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+  }
+  
+  .index-headers2 {
+    text-align: center;
+    padding: 10px;
+    border-bottom: 2px solid black;
+  }
+
+  .nav {
+    text-align: center;
+  }
+  
+  .blog-links {
+    padding: 10px;
+    text-decoration: underline;
+    color: Black;
+    font-size: 1.2em;
+    font-weight: bolder;
+  }
+
+  a.blog-links:hover {
+    color: black;
+    background-color: #ffffe0;
+  }
 
   #linkedin-logo {
     display: inline;
@@ -34,7 +66,7 @@ h1 {
 
 .footer{
   height: 50px;
-  background-color: #666;
+  background-color: #5566;
   height: 60px;
   position: fixed;
   left: 0;
@@ -48,15 +80,22 @@ h1 {
   min-height: calc(100% - 100px)
 }
 
-.blog-links {
-  text-decoration: none;
+.content-of-page {
+  text-align: justify;
+  text-justify: inter-word;
+  margin: 20px 150px 20px 150px;
 }
 
 /* BELOW IS TECH BLOG CSS*/
-p {
+.top-and-middle {
   text-align: justify;
   text-justify: inter-word;
-  margin: 20px 50px 20px 50px;
+  margin: 20px 150px 20px 150px;
+  overflow: auto;
+}
+
+.bottom-paragraph {
+  margin: 20px 150px 150px 150px;
 }
 
 .img-of-class-vs-id {
