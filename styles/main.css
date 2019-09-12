@@ -166,3 +166,18 @@ Core blog below!! */
 .index-headers-blog {
   background-color: #d5fcad;
 }
+
+.blog-paragraphs {
+  text-align: justify;
+  text-justify: inter-word;
+  margin: 20px 150px 20px 150px;
+  overflow: auto;
+}
+
+.bottom-paragraph-core {
+  margin: 20px 150px 150px 150px;
+}
+
+.core-header {
+  text-align: center;
+}
