@@ -188,3 +188,13 @@ Core blog below!! */
   text-align: center;
 
 }
+
+/* core blog 4 Below */
+.img-of-christina-santhouse {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: auto;
+
+}
